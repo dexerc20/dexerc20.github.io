@@ -1,7 +1,7 @@
 /* eslint-env browser  */
 
 module.exports = {
-  homeURL: '#',
+  homeURL: 'https://dexerc20.github.io/',
   contractDecentrEx: 'smart_contract/dexerc20.sol',
   contractToken: 'smart_contract/token.sol',
   contractReserveToken: 'smart_contract/reservetoken.sol',
@@ -19,7 +19,7 @@ module.exports = {
   gasTrade: 250000,
   gasOrder: 250000,
   ordersOnchain: false,
-  apiServer: '#',
+  apiServer: 'https://dexerc20.github.io/',
   userCookie: 'dexerc20',
   eventsCacheCookie: 'dexerc20_eventsCache',
   deadOrdersCacheCookie: 'dexerc20_deadOrdersCache',
